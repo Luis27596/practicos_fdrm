@@ -1,0 +1,211 @@
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000048 00000004 b ptrParagolpesDerCback
+practicos_fdrm/practico2/ej10/out/ej10.elf:1000004c 00000004 b ptrParagolpesIzqCback
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000560 00000044 t Board_LED_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0005a4 00000040 t Board_TEC_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0005e4 00000040 t Board_GPIO_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000624 00000030 t Board_ADC_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000654 00000038 t Board_SPI_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00068c 00000024 t Board_I2C_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001bbc 00000008 t GpioButtons
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001bc4 0000000c t GpioLeds
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001bd0 00000012 t GpioPorts
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001be8 00000004 t InitClkStates
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001bec 00000074 t pinmuxing
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0007b8 0000002c t Chip_UART_GetIndex
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001c60 00000008 t UART_BClock
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001c68 00000008 t UART_PClock
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000914 00000014 t Chip_ADC_GetClockIndex
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000928 00000032 t getClkDiv
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0009dc 000000a0 t pll_calc_divs
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000a7c 0000010c t pll_get_frac
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000b88 0000004c t Chip_Clock_FindBaseClock
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000dfc 00000022 t Chip_Clock_GetDivRate
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000050 00000008 b audio_usb_pll_freq
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001c7c 0000006c t periph_to_base
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000000 00000038 d i2c
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001ce8 00000048 t InitClkStates
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0011f0 00000014 t Chip_SSP_GetClockIndex
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001204 00000018 t Chip_SSP_GetPeriphClockIndex
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000038 00000004 d ClockSpeed
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001d30 0000001c t SCTdataList
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00139c 00000010 t pwmInitTimers
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0013f8 00000034 t pwmAttach
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00142c 0000001c t pwmDetach
+practicos_fdrm/practico2/ej10/out/ej10.elf:1000003c 0000000b d AttachedPWMList
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001d4c 0000000b t pwmMap
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000058 00000004 b callBackFuncParams
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000060 00000008 b tickCounter
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000068 00000004 b tickHookFunction
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00152c 00000034 t gpioObtainPinInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:1000006c 00000004 b g_hUsb
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001e9c t __init_array_end
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001e98 b __preinit_array_end
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001e98 t __init_array_start
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001e98 b __preinit_array_start
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000c20 0000001c T Chip_Clock_GetDividerSource
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W TIMER2_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000184 00000002 W DebugMon_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W RIT_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a080000 A __top_MFlashA512
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W ADCHS_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000114 T __section_table_start
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W FLASH_EEPROM_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W I2C0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0004a0 00000048 T escribirMotorIzq
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000700 00000008 T __stdio_init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00017a 00000002 W HardFault_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000000 A __vectors_start__
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0009ce 0000000c T Chip_ADC_SetResolution
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001500 0000002c T SysTick_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00031c 00000002 W initialise_monitor_handles
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W SDIO_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W ATIMER_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000186 00000002 W PendSV_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000178 00000002 W NMI_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001ea4 R __exidx_end
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000150 T __data_section_table_end
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W I2C1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000ff4 00000010 T Chip_SCT_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W UART1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GPIO5_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W CAN1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:53ff756e A __valid_user_code_checksum
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001ea4 R _etext
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W USB1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W I2S0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W TIMER3_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000e9e 0000000c T Chip_Clock_GetBaseClocktHz
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W UART0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001a8 00000012 T bss_init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W SGPIO_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000070 00000004 B frec_timer
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00185c T __aeabi_uldivmod
+practicos_fdrm/practico2/ej10/out/ej10.elf:100000a4 ? _noinit
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000094 00000004 B SystemCoreClock
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0007e4 00000054 T Chip_UART_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W ADC0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000180 00000002 W UsageFault_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000f1c 00000048 T Chip_Clock_GetRate
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GPIO6_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000740 0000006c T Board_SetupClocking
+practicos_fdrm/practico2/ej10/out/ej10.elf:20008000 A __top_RamAHB32
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00188c 000002d0 T __udivmoddi4
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001bb8 00000004 T ExtRateIn
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W IntDefaultHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000300 T __CRP_WORD_END__
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001350 0000004c T Sct_EnablePwmFor
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GPIO1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W SSP0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001e9c R __exidx_start
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0002fc 00000004 T CRP_WORD
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001b60 00000048 T __libc_init_array
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W ADC1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0012f8 00000024 T Sct_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0006d4 0000002c T Board_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0003aa 00000002 W _init
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000074 00000010 B tacometro_der
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000114 T __data_section_table
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W RTC_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:100000a4 B _ebss
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0003ac 0000009c T TIMER0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000320 00000088 T Reset_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001484 0000007c T tickInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:20010000 A __top_RamAHB_ETB16
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W SPI_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0011a4 0000004a T Chip_SCTPWM_SetRate
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000fbc 00000038 T Chip_I2C_SetClockRate
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W LCD_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000bd4 0000004c T Chip_Clock_EnableCrystal
+practicos_fdrm/practico2/ej10/out/ej10.elf:10008000 A __top_RamLoc32
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0004e8 00000048 T escribirMotorDer
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00018a 0000001e T data_init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W TIMER1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000f98 00000024 T Chip_I2C_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W UART2_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000d90 0000006c T Chip_Clock_GetMainPLLHz
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001d58 00000140 T gpioPinsInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00121c 00000012 T Chip_SSP_SetClockRate
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GPIO2_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000e78 00000026 T Chip_Clock_GetBaseClock
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000048 B _bss
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00099c 00000032 T Chip_ADC_SetSampleRate
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W I2S1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00122e 0000003e T Chip_SSP_SetBitRate
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001004 00000002 T Chip_GPIO_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001be4 00000004 T OscRateIn
+practicos_fdrm/practico2/ej10/out/ej10.elf:100000a4 ? _end_noinit
+practicos_fdrm/practico2/ej10/out/ej10.elf:10008000 A _vStackTop
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W SSP1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000178 T __bss_section_table_end
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001560 00000194 T gpioInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001448 00000024 T pwmInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001b5c 00000002 W __aeabi_ldiv0
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00174c 0000001c T USB0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000530 00000018 T GPIO3_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W SCT_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000c3c 0000001c T Chip_Clock_GetDividerDivisor
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0002fc T __CRP_WORD_START__
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001ba8 00000010 T memset
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00017c 00000002 W MemManage_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000300 0000001c T main
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W WDT_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:2000c000 A __top_RamAHB16
+practicos_fdrm/practico2/ej10/out/ej10.elf:1008a000 A __top_RamLoc40
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000182 00000002 W SVC_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001338 00000018 T Sct_SetDutyCycle
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GPIO7_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000eac 0000003c T Chip_Clock_EnableOpts
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000c58 000000b8 T Chip_Clock_GetClockInputHz
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000d10 00000080 T Chip_Clock_CalcMainPLLValue
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0012a4 00000038 T SystemInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000084 00000010 B tacometro_izq
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W SPIFI_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W QEI_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000150 T __bss_section_table
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0016f4 00000056 T gpioWrite
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0003a8 00000002 W _fini
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00095c 00000040 T Chip_ADC_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:100000a0 00000004 B g_pUsbApi
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000708 00000038 T Board_SetupMuxing
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000838 000000dc T Chip_UART_SetBaudFDR
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000098 00000008 B tickRateMS
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W ETH_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000000 ? _end_uninit_RESERVED
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00131c 0000001c T Sct_Uint8ToTicks
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000484 0000001c T prenderMotores
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W CAN0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000000 D _data
+practicos_fdrm/practico2/ej10/out/ej10.elf:100000a4 B _pvHeapStart
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000178 T __section_table_end
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00126c 00000038 T Chip_SSP_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GINT0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000448 0000003c T iniMotores
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W DAC_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0006b0 00000024 T Board_Debug_Init
+practicos_fdrm/practico2/ej10/out/ej10.elf:10000048 D _edata
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000f78 00000020 T Chip_I2C_EventHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W M0SUB_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001160 00000044 T Chip_SCTPWM_SetOutPin
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001008 00000158 T Chip_SetupCoreClock
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GPIO0_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000000 00000040 T g_pfnVectors
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000f64 00000014 T SystemCoreClockUpdate
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0013ac 00000028 T pwmIsAttached
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W DMA_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W EVRT_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1b080000 A __top_MFlashB512
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001b5c 00000002 W __aeabi_idiv0
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00017e 00000002 W BusFault_Handler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0013d4 00000024 T pwmWrite
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000ee8 00000034 T Chip_Clock_Enable
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W UART3_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W MCPWM_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W M0APP_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a001768 000000f4 T boardInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000040 000000d4 T g_pfnVendorVectors
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0001ba 00000002 W GINT1_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a00146c 00000018 T tickPowerSet
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000e20 00000058 T Chip_Clock_SetBaseClock
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0012dc 0000001c T cyclesCounterInit
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a000548 00000018 T GPIO4_IRQHandler
+practicos_fdrm/practico2/ej10/out/ej10.elf:1a0007ac 0000000c T Board_SystemInit
