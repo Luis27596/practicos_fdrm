@@ -1,2 +1,2 @@
 # practicos_fdrm
-HolaMundo
+Este repositorio contiene los prácticos de la materia Fundamentos de Robótica Móvil
